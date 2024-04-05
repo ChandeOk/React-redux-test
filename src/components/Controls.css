@@ -1,0 +1,16 @@
+.controls {
+  width: 30%;
+  display: flex;
+  place-content: center;
+  place-items: center;
+  gap: 1rem;
+  font-family: Roboto;
+  font-size: 1.5rem;
+  color: #fff;
+  padding: 1rem;
+
+  button {
+    border: none;
+    padding: 1rem;
+  }
+}
